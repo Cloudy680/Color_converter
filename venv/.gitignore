@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# venv
+venv/
+
+# build artifacts
+build/
+dist/
+*.spec
+
+# IDE/Editor settings
+.vscode/
+.idea/
