@@ -1,16 +1,3 @@
-УСТАНОВКА И ЗАПУСК
-1) Установите Python 3.10+
-2) Скачайте проект или клонируйте репозиторий:
-   git clone https://github.com/username/color-studio.git
-   cd color-studio
-3) Создайте виртуальное окружение:
-   python -m venv venv
-   venv\Scripts\activate
-   pip install -r requirements.txt
-4) Запустите:
-   python color_studio.py
-
-
 ОСНОВНЫЕ ФУНКЦИИ
 1) CMYK ↔ RGB ↔ HLS — автоматическая конвертация между всеми моделями.
 2) 3 способа задания цвета:
